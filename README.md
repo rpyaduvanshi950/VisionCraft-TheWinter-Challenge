@@ -47,12 +47,15 @@ We are here to help you, so don’t hesitate to reach out if you need any assist
 ### Resoucres of 4 Weeks
 ### Week 1: 
   - Lecture one on pandas(see in week one folder)
+  - Lecture two on numpy(see in week one folder)
+  - Assignment one: Submission Deadline: 11th Dec 6:00 PM.
   - Learning Resources:
       - Video Tutorial: [Python for Beginners (YouTube)](https://youtu.be/rfscVS0vtbw?feature=shared)
       - NumPy Beginner's Guide: [Absolute Beginners Guide to NumPy](https://numpy.org/doc/stable/user/absolute_beginners.html)
       - Pandas Quick Start: [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
       - Git Introduction: [Git and GitHub for Beginners (YouTube)](https://youtu.be/ufKRYe8ZPaw?si=a4SBTrihYvqtEP9c)
       - Step-by-Step Guide for Git: [Access the detailed guide here](https://github.com/rpyaduvanshi950/VisionCraft-TheWinter-Challenge/blob/main/Week1/GuideGithub.md)
-
+### Week 2:
+  - Lecture 1: Intro to CV(see in week two folder)
 --- 
 Good luck, and let's make this winter challenge a memorable one!
